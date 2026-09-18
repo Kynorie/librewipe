@@ -139,4 +139,4 @@ Close LibreWolf before you run LibreWipe. The tool will stop if LibreWolf is sti
 
 ## License
 
-Add your license here.
+MIT.
